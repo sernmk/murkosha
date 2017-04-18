@@ -1,0 +1,16 @@
+# The humans responsible & technology colophon
+# http://humanstxt.org/
+
+# TEAM
+
+  - Name: sobolevn
+    Email: sobolevn@wemake.services
+    Github: https://github.com/sobolevn
+
+
+# TECHNOLOGY COLOPHON
+
+  First update: 10 April 2017
+  Language: English / Russian
+  Doctype: HTML5
+  Technologies: HTML5, CSS3, Javascript, Python, Django, Yeoman
