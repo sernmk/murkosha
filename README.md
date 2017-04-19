@@ -77,4 +77,4 @@ To create a superuser run: `python manage.py createsuperuser`
 
 ### Running development server
 
-To run the project: `python manage.py runsever`
+To run the project: `python manage.py runserver`
